@@ -1,0 +1,3 @@
+echo totally not windows 1 bat edition
+pause
+shutdown /r /t 0
