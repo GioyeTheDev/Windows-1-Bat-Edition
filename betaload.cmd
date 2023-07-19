@@ -12,7 +12,7 @@ echo 888P     Y888 888 888  888  "Y88888  "Y88P"   "Y8888888P"   88888P'      22
 echo beta
 echo There are no commands specially made for Windows 1. you're in the beta. some will be added soon.
 echo type "help" for a list of ms-dos commands 
-powershell
+cmd
 
                                                
                                                                                  
