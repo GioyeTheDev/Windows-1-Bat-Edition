@@ -3,4 +3,5 @@ If you're Prydev (Or Someone Else), please download The Latest Version Available
 ## Windows 1 Bat Edition,  this is a succesful test to make Windows 1 Using Only Bat Files.
 ### Always Update Using Update.bat, added in 1.4!
 Future Versions will also have this update.
-£> | <3
+
+<3
