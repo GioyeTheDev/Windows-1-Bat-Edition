@@ -6,3 +6,6 @@ echo You can Update even from Prydev's Github
 echo (Make sure to download The Windows Bat Edition ZIPS)
 echo https://github.com/realprydev/MalwareDatabase/tree/main/Fan%20made%20stuff
 echo Thank You!
+pause
+echo make sure you updated.
+pause
