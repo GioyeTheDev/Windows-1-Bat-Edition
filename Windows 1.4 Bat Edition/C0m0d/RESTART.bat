@@ -1,1 +1,0 @@
-shutdown /r /t 5 /c BAT HAS FORCED SYSTEM RESTART
